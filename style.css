@@ -1,6 +1,6 @@
 div.back-container {
     background-color: rgb(204, 204, 204);
-    padding: 20px 20px 40px;
+    padding: 20px;
 }
 
 h1 {
@@ -38,4 +38,9 @@ img.octocat {
     background-color: rgb(42, 44, 38);
     display: flex;
     justify-content: space-between;
+}
+
+p {
+    padding-top: 10px;
+    color: gray;
 }
