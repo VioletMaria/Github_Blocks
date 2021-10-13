@@ -30,7 +30,7 @@ img.octocat {
 .container-2 {
     background-color: rgb(63, 68, 55);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin: 10px 0px 10px 0px;
 }
 
